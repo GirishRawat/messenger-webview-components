@@ -1,5 +1,6 @@
 Messenger Webview Components
 ============================	
 
-UI Elements for Facebook Messenger Webview
-------------------------------------------
+<p align="center">
+  UI Toolkit for Messenger Webview
+</p>
