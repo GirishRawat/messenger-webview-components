@@ -1,7 +1,2 @@
-<p align="center">
-  <h1>Messenger Webview Components</h1>
-</p>
-
-<p align="center">
-  UI Toolkit for Messenger Webview
-</p>
+<h1>Messenger Webview commponents</h1>
+<p>UI Toolkit for Messenger Webview</p>
